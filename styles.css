@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  color: purple;
+  background-color: gray;
+}
+
+ul li {
+  font-weight: 800;
+  text-align: left;
+}
+
+ol > li {
+  color: blue;
+}
+
+.styled {
+  color: rgb(255,255,255);
+  background-color: #f62681;
+  font-size: 80px;
+  font-weight: 500;
+
+}
